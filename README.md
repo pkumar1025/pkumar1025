@@ -32,10 +32,10 @@ I'm currently a Software Engineer specializing in Machine Learning and Data Loss
 ## Activity
 My contribution graph reflects work from my professional GitLab account, mirrored here to show development activity. Due to proprietary nature of work at Palo Alto Networks, most repositories remain private.
 
-## 📫 Connect
+## Connect
 - **GitHub:** [github.com/pkumar1025](https://github.com/pkumar1025)
 - **Email:** praneshkumar1@berkeley.edu
 
 ---
 
-_Software Engineer @ Palo Alto Networks | UC Berkeley_
+_Software Engineer @ Palo Alto Networks | UC Berkeley Alum_
