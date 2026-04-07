@@ -29,7 +29,7 @@ I'm currently a Software Engineer specializing in Machine Learning and Data Loss
 **Cloud:** GCP (BigQuery, Storage, Spanner), AWS (S3)  
 **DevOps:** Docker, Kubernetes, ArgoCD, GitLab CI/CD, Prometheus, OpenTelemetry
 
-## 📊 Activity
+## Activity
 My contribution graph reflects work from my professional GitLab account, mirrored here to show development activity. Due to proprietary nature of work at Palo Alto Networks, most repositories remain private.
 
 ## 📫 Connect
