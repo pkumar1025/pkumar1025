@@ -1,7 +1,7 @@
 # Hi, I'm Pranesh 👋
 
 ## A Little Bit About Me
-I'm currently a Software Engineer specializing in Machine Learning and Data Loss Prevention systems at **Palo Alto Networks**.
+I'm currently a Software Engineer specializing in Machine Learning and Data Loss Prevention at **Palo Alto Networks**.
 
 ## Professional Activity
 
